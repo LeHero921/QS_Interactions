@@ -50,7 +50,7 @@ For example:<br> public class newModule : InteractionModule <br>
 You also need to implement the functions given by InteractionModule.
 
 <h4> 2. Access Interactions in code</h4>
-Interactions are trigegred through the OnInteract method of a InteractionTarget. You can either implement the Interact call in a custom script by referencing a InteractionTarget or by triggering it with the InteractionTrigger (uses raycasts).
+Interactions are triggered through the OnInteract method of a InteractionTarget. You can either implement the Interact call in a custom script by referencing a InteractionTarget or by triggering it with the InteractionTrigger (uses raycasts).
 
 <br><br>
 <h4>More documentation coming soon™️</h4>
